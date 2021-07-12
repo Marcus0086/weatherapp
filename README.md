@@ -1,7 +1,14 @@
 # Weather app
-### Hi there, Greetings from -[AdditcoX][website] 👋
+### Hi there, Greetings from -[Techogen][website] 👋
 
 [![Website](https://github.com/Marcus0086/splitit/blob/master/assets/images/logo.png?raw=true)](https://sudoku-api.vercel.app/)
+
+
+# Contents of this File
+- Description
+
+# Description
+--------------
 
 
 ### Spotify Playing 🎧
@@ -14,7 +21,7 @@
 [<img align="left" alt="additcox" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="aditcox | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="additcox | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="additcox | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="additcox | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"] [instagram]
 
 <br />
 
@@ -28,5 +35,12 @@
 
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />](https://git-scm.com/)
 
+<br />
+<br />
 
 
+[website]: https://dsalgoapp.netlify.app/#/
+[twitter]: https://twitter.com/RaghavG54140751
+[instagram]: https://www.instagram.com/raghav0gupta/
+[linkedin]: https://www.linkedin.com/in/marcus-gupta-4a63341b5/
+ 
