@@ -1,29 +1,17 @@
 # Weather app
 ### Hi there, Greetings from -[Techogen][website] 👋
 
-[![Website](https://github.com/Marcus0086/splitit/blob/master/assets/images/logo.png?raw=true)](https://sudoku-api.vercel.app/)
-
-
 # Contents of this File
 - Description
 
 # Description
 --------------
-
+Weather app is a web app that is designed to fetch the temperature, windspeed and pressure of the weather of a certain date. 
+It is made in most popular react framework Next js.
 
 ### Spotify Playing 🎧
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="AdditcoX Spotify Playing" width="350" />](https://open.spotify.com/?_gl=1*1j9zrqt*_gcl_aw*R0NMLjE2MTkzNDc4MzcuQ2owS0NRandwcFNFQmhDR0FSSXNBTklzNHA1NXkyNW5ZcHNKUmdoTFNyU2xnR3JNdlNLT0lEZ1ZOUFQwbEpoZ2JWbmU0ZFUxWVZCVC1zSWFBcGNMRUFMd193Y0I.*_gcl_dc*R0NMLjE2MTkzNDc4MzcuQ2owS0NRandwcFNFQmhDR0FSSXNBTklzNHA1NXkyNW5ZcHNKUmdoTFNyU2xnR3JNdlNLT0lEZ1ZOUFQwbEpoZ2JWbmU0ZFUxWVZCVC1zSWFBcGNMRUFMd193Y0I.&_ga=2.64304619.577986972.1619347814-1218930918.1618132103&_gac=1.55957209.1619347837.Cj0KCQjwppSEBhCGARIsANIs4p55y25nYpsJRghLSrSlgGrMvSKOIDgVNPT0lJhgbVne4dU1YVBT-sIaApcLEALw_wcB)
-
-
-### Connect with me:
-
-[<img align="left" alt="additcox" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="aditcox | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="additcox | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="additcox | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"] [instagram]
-
-<br />
 
 ### Languages and Tools used:
 
@@ -37,10 +25,5 @@
 
 <br />
 <br />
-
-
 [website]: https://dsalgoapp.netlify.app/#/
-[twitter]: https://twitter.com/RaghavG54140751
-[instagram]: https://www.instagram.com/raghav0gupta/
-[linkedin]: https://www.linkedin.com/in/marcus-gupta-4a63341b5/
  
