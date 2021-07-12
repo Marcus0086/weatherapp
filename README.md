@@ -22,24 +22,11 @@
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />](https://code.visualstudio.com/)
 
-[<img align="left" alt="Flutter" width="100px" src="https://flutter.dev/assets/flutter-lockup-1caf6476beed76adec3c477586da54de6b552b2f42108ec5bc68dc63bae2df75.png" />](https://flutter.dev/?gclid=Cj0KCQjwppSEBhCGARIsANIs4p68oB5N-HuUuV0mJVhGrhQrljG5FhdggbbUDLzPx6xTcR9qNSzEF3saAlfGEALw_wcB&gclsrc=aw.ds)
+[<img align="left" alt="Next js" width="100px" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F8%2F8e%2FNextjs-logo.svg%2F1200px-Nextjs-logo.svg.png&imgrefurl=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FNext.js&tbnid=Gu8EowV_-l_gbM&vet=12ahUKEwjw3YjU2t3xAhUsDrcAHTvBAI0QMygAegUIARC7AQ..i&docid=6o73KimtRxVyHM&w=1200&h=719&q=next%20js%20image&ved=2ahUKEwjw3YjU2t3xAhUsDrcAHTvBAI0QMygAegUIARC7AQ" />](https://nextjs.org/)
 
 [<img align="left" alt="Firebase" width="100px" src="https://www.gstatic.com/devrel-devsite/prod/vdb246b8cc5a5361484bf12c07f2d17c993026d30a19ea3c7ace6f0263f62c0dd/firebase/images/lockup.png" />](https://firebase.google.com/)
 
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />](https://git-scm.com/)
 
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />](https://github.com/Marcus0086)
 
 
-<br />
-<br />
-
-### Other Projects:
-- [Data Structures and Algorithms Visualiser](https://dsalgoapp.netlify.app/)
-- [Color Pallete Maker](https://palletemon.vercel.app/)
-- [Sudoku Api](https://sudoku-api.vercel.app/)
-
-[website]: https://dsalgoapp.netlify.app/#/
-[twitter]: https://twitter.com/RaghavG54140751
-[instagram]: https://www.instagram.com/raghav0gupta/
-[linkedin]: https://www.linkedin.com/in/marcus-gupta-4a63341b5/
