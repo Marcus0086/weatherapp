@@ -27,5 +27,5 @@ It is made in most popular react framework Next js.
 <br />
 
 
-[website]: https://dsalgoapp.netlify.app/#/
+[website]: https://sudoku-api.vercel.app/
  
